@@ -1,0 +1,25 @@
+img.media-object {
+	max-height:80px;
+	border-radius:90px;
+}
+
+body > div > div > h2 {
+	padding:20px;
+}
+
+.follower-count {
+	background:#eee;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:4px;
+	padding-bottom:5px;
+	border-radius:50%;
+	width:20px;
+	height:20px;
+}
+
+
+div .main-content {
+	margin-top:20px;
+	padding:9px;
+}
